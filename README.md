@@ -12,6 +12,9 @@ Welcome to my GitHub profile! I'm **Zedeyx**, a passionate developer, hacker, an
 - **Dev Tools**: Git, Docker, Nginx, VS Code, Postman
 - **Other**: SEO, Web Security, CI/CD, Firebase, Vercel, Netlify
 
+
+---
+<b align="center"> tech stack </b>
 <div align="center">
   <table>
     <tr>
