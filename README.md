@@ -1,10 +1,10 @@
-# Zedeyx - Developer | Hacker | Innovator
+# Zedeyx - Developer
 
 Welcome to my GitHub profile! I'm **Zedeyx**, a passionate developer, hacker, and tech enthusiast, constantly exploring new ways to push the boundaries of technology.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 - **Languages**: JavaScript, Python, HTML, CSS, C++, Rust
 - **Frameworks**: React, Node.js, Express, Next.js
@@ -12,10 +12,8 @@ Welcome to my GitHub profile! I'm **Zedeyx**, a passionate developer, hacker, an
 - **Dev Tools**: Git, Docker, Nginx, VS Code, Postman
 - **Other**: SEO, Web Security, CI/CD, Firebase, Vercel, Netlify
 
-
----
-<b align="center"> tech stack </b>
 <div align="center">
+  <hr>
   <table>
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML</td>
@@ -59,10 +57,10 @@ Here are a few of my favorite projects:
 
 ## 💬 Connect with Me
 
-- **Email**: [zedeyx@example.com](mailto:zedeyx@example.com)
-- **Twitter**: [@Zedeyx](https://twitter.com/Zedeyx)
-- **LinkedIn**: [Zedeyx LinkedIn](https://linkedin.com/in/zedeyx)
-- **Website**: [Zedeyx.com](https://zedeyx.com)
+- **Email**: [zedeyx@gmail.com](mailto:zedeyx@gmail.com)
+- **X**: [@Zedeyx](https://x.com/Zedeyx)
+- **Discord**: [Zedeyx LinkedIn](https://linkedin.com/in/zedeyx)
+- **Website**: [Zedeyx.com](https://zedeyx.my.id)
 
 ---
 
