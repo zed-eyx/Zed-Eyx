@@ -52,26 +52,11 @@ Here are a few of my favorite projects:
 ### 3. **[My Personal Portfolio](https://zedeyx.com)**
    - A showcase of my skills, projects, and blog posts.
    - **Tech Stack**: Next.js, Firebase Hosting
-
----
-
-## 💬 Connect with Me
-
-- **Email**: [zedeyx@gmail.com](mailto:zedeyx@gmail.com)
-- **X**: [@Zedeyx](https://x.com/Zedeyx)
-- **Discord**: [Zedeyx LinkedIn](https://linkedin.com/in/zedeyx)
-- **Website**: [Zedeyx.com](https://zedeyx.my.id)
-
 ---
 
 ## 📈 GitHub Stats
 ![ZedeyxOfficial github-stats](https://stats.dooboo.io/api/github-stats?login=ZedeyxOfficial)
 [![Zedeyx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZedeyxOfficial&bg_color=ffffff&color=000000&line=8a24ff&point=24292e&area=true&hide_border=true)](#)
-<div align="center">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=ZedeyxOfficial" alt="ZedeyxOfficial github-trophies" />
-</div>
-
-![Zedeyx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zedeyx&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
 ---
 
@@ -94,7 +79,7 @@ I've always been curious about technology and how things work. Whether it’s le
 ## 🏆 Achievements & Contributions
 
 - **Top Contributor** to several open-source projects.
-- **Winner** of the 2024 Web Security Hackathon.
+- **Winner** of the 2025 Web Security Hackathon.
 - Published multiple blog posts on web development, security, and optimization.
 
 ---
@@ -103,8 +88,16 @@ I've always been curious about technology and how things work. Whether it’s le
 
 - I prefer **solo projects** but thrive in collaborative teams.
 - I enjoy **green tea** and listening to tech stories while coding.
-- I’m a huge fan of **Mark Zuckerberg, Steve Jobs**, and other tech giants.
+- I’m a huge fan of **Steve Jobs** and other tech giants.
 
 ---
+
+## 💬 Connect with Me
+
+- **Email**: [zedeyx@gmail.com](mailto:zedeyx@gmail.com)
+- **X**: [@Zedeyx](https://x.com/Zedeyx)
+- **Discord**: [Zedeyx LinkedIn](https://linkedin.com/in/zedeyx)
+- **Website**: [Zedeyx.com](https://zedeyx.my.id)
+- 
 
 Feel free to explore my repositories, contribute, or just say hi! 😊
