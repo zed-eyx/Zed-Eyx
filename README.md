@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm **Zedeyx**, a passionate developer, cybersecur
 - **Core Focus:** Robotics & Programming
 - **Languages:** English  
 - **Fun Fact:** I learn better in silence and prefer green tea over coffee.
----
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +20,6 @@ Welcome to my GitHub profile! I'm **Zedeyx**, a passionate developer, cybersecur
 - **Other**: SEO, Web Security, CI/CD, Vercel, Netlify
 
 <div align="center">
-  <hr>
   <table>
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>JavaScript</td>
@@ -43,7 +41,7 @@ Welcome to my GitHub profile! I'm **Zedeyx**, a passionate developer, cybersecur
 </div>
 
 
----
+
 
 ## 🚀 Projects
 
@@ -60,12 +58,12 @@ Here are a few of my favorite projects:
 ### 3. **[My Personal Portfolio](https://zedeyx.com)**
    - A showcase of my skills, projects, and blog posts.
    - **Tech Stack**: Next.js, Firebase Hosting
----
+
 
 ## 📈 GitHub Stats
 ![ZedeyxOfficial github-stats](https://stats.dooboo.io/api/github-stats?login=zed-eyx)
 
----
+
 
 ## 🔥 My Coding Journey
 
@@ -73,7 +71,6 @@ Here are a few of my favorite projects:
 
 I've always been curious about technology and how things work. Whether it’s learning how to code, building web apps, or exploring new cybersecurity challenges, I’m constantly evolving and pushing myself to stay ahead of the curve.
 
----
 
 ## 📚 What I’m Learning Right Now
 
@@ -81,23 +78,17 @@ I've always been curious about technology and how things work. Whether it’s le
 - **Blockchain & Web3**: Exploring decentralized apps.
 - **AI & Machine Learning**: Aiming to dive deeper into machine learning algorithms.
 
----
-
 ## 🏆 Achievements & Contributions
 
 - **Top Contributor** to several open-source projects.
 - **Winner** of the 2025 Web Security Hackathon.
 - Published multiple blog posts on web development, security, and optimization.
 
----
-
 ### 🚨 Fun Facts About Me:
 
 - I prefer **solo projects** but thrive in collaborative teams.
 - I enjoy **green tea** and listening to tech stories while coding.
 - I’m a huge fan of **Steve Jobs** and other tech giants.
-
----
 
 ## 💬 Connect with Me
 
