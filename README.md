@@ -63,8 +63,7 @@ Here are a few of my favorite projects:
 ---
 
 ## 📈 GitHub Stats
-![ZedeyxOfficial github-stats](https://stats.dooboo.io/api/github-stats?login=ZedeyxOfficial)
-[![Zedeyx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zed-eyx&bg_color=ffffff&color=000000&line=8a24ff&point=24292e&area=true&hide_border=true)](#)
+![ZedeyxOfficial github-stats](https://stats.dooboo.io/api/github-stats?login=zed-eyx)
 
 ---
 
@@ -106,6 +105,8 @@ I've always been curious about technology and how things work. Whether it’s le
 - **X**: [@Zedeyx](https://x.com/Zedeyx)
 - **Discord**: [Zedeyx LinkedIn](https://linkedin.com/in/zedeyx)
 - **Website**: [Zedeyx](https://zedeyx.my.id)
-- 
 
 Feel free to explore my repositories, contribute, or just say hi! 😊
+
+[![Zedeyx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zed-eyx&bg_color=ffffff&color=000000&line=8a24ff&point=24292e&area=true&hide_border=true)](#)
+
