@@ -2,34 +2,42 @@
 
 Welcome to my GitHub profile! I'm **Zedeyx**, a passionate developer, cybersecurity expert, and tech enthusiast, constantly exploring new ways to push the boundaries of technology.
 
+### 👨‍💻 About Me
+
+- **Age:** Old enough
+- **Location:** Earth 
+- **Class:** Studied Enough
+- **Core Focus:** Robotics & Programming
+- **Languages:** English  
+- **Fun Fact:** I learn better in silence and prefer green tea over coffee.
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, Javascript, Java, PHP, Bash, Rust
-- **Frameworks**: React, Node.js, Remax, Next.js, Bootstrap, Tailwind, Astro, Bulma
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Dev Tools**: Git, Docker, Nginx, VS Code, Cloudflare
-- **Other**: SEO, Web Security, CI/CD, Firebase, Vercel, Netlify
+- **Languages**: Python, Javascript, Typescript, PHP, Bash
+- **Frameworks**: React, Node.js, Vue.js, Next.js, Svelte
+- **Databases**: MongoDB, MySQL, PostgreSQL, Firebase
+- **Dev Tools**: Git, Docker, Nginx, Vite, OpenAi
+- **Other**: SEO, Web Security, CI/CD, Vercel, Netlify
 
 <div align="center">
   <hr>
   <table>
     <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>Tailwind</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>Bulma</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>JavaScript</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>Typescript</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>React</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>Remax</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br>Next.js</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>Tailwind</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br>Bulma</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Astro</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>Nust.js</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Leravel</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>Laravel</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Django</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>Django</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>Tensorflow</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Torch</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>Bash</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>Flask</td>
     </tr>
   </table>
 </div>
@@ -41,8 +49,8 @@ Welcome to my GitHub profile! I'm **Zedeyx**, a passionate developer, cybersecur
 
 Here are a few of my favorite projects:
 
-### 1. **[Techoua.com](https://techoua.com)**
-   - A tech blog that covers the latest in web development, cybersecurity, and coding.
+### 1. **[Pequela](Empty)**
+   - An AI powered chat bot for health care & proper diets.
    - **Tech Stack**: WordPress, HTML/CSS, JavaScript
 
 ### 2. **[Teclus.com](https://teclus.com)**
@@ -97,7 +105,7 @@ I've always been curious about technology and how things work. Whether it’s le
 - **Email**: [zedeyx@gmail.com](mailto:zedeyx@gmail.com)
 - **X**: [@Zedeyx](https://x.com/Zedeyx)
 - **Discord**: [Zedeyx LinkedIn](https://linkedin.com/in/zedeyx)
-- **Website**: [Zedeyx.com](https://zedeyx.my.id)
+- **Website**: [Zedeyx](https://zedeyx.my.id)
 - 
 
 Feel free to explore my repositories, contribute, or just say hi! 😊
