@@ -25,8 +25,14 @@ Here are a few of my favorite projects:
 
 
 ## 📈 GitHub Stats
-![ZedeyxOfficial github-stats](https://stats.dooboo.io/api/github-stats?login=zed-eyx)
+![](https://github-readme-stats.vercel.app/api?username=zed-eyx&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zed-eyx&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zed-eyx&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=zed-eyx&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 🔥 My Coding Journey
