@@ -21,8 +21,8 @@ const abdul = ({
   ],
   links: {
     Insta: "zedeyx",
-    Discord: "dsc.gg/zedeyx",
-    email: "zedeyx@bizz.com"
+    Discord: "dsc.gg/webfrel",
+    email: "g+zedeyx@gmail.com"
   },
   status: "Active",
   quote: `"I don’t follow trends. I build what's necessary."`
