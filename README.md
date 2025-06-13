@@ -4,7 +4,7 @@ const abdul = ({
     name: "Abdul Mukit",
     alias: "Zedeyx",
     location: "Earth",
-    role: "",
+    role: "Developer",
     company: "Teclus · Founder"
   },
   focus: [
