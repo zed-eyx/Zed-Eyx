@@ -1,28 +1,28 @@
 ```js
-const abdul = developer({
+const abdul = ({
   about: {
     name: "Abdul Mukit",
-    alias: "Zed Eyeh",
-    location: "Narayanganj, Bangladesh 🇧🇩",
-    role: "Frontend Developer & Cybersecurity Learner",
-    company: "Techoua · Founder"
+    alias: "Zedeyx",
+    location: "Earth",
+    role: "",
+    company: "Teclus · Founder"
   },
   focus: [
-    "Web & App Development",
-    "SEO Blogging",
-    "SSC Exam 2025",
-    "Learning Ethical Hacking"
+    "Full Stack Development",
+    "Learning Cybersecurity",
+    "Artificial Intelligence",
+    "Automation & Robotics"
   ],
   mindset: [
     "Self-taught",
-    "CEO-Type Visionary",
+    "Changer",
     "Minimalist",
-    "Silent Builder"
+    ""
   ],
   links: {
-    website: "https://techoua.com",
-    github: "https://github.com/Abdul-Mukit",
-    email: "dev@techoua.com"
+    Insta: "zedeyx",
+    Discord: "dsc.gg/zedeyx",
+    email: "zedeyx@bizz.com"
   },
   status: "Active",
   quote: `"I don’t follow trends. I build what's necessary."`
