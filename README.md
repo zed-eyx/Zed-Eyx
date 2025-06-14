@@ -20,8 +20,8 @@ const abdul = ({
     ""
   ],
   links: {
-    Insta: "zedeyx",
-    Discord: "dsc.gg/webfrel",
+    Insta: "zed.eyx",
+    Discord: "dsc.gg/zedeyx",
     email: "g+zedeyx@gmail.com"
   },
   status: "Active",
