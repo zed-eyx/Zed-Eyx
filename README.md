@@ -1,3 +1,5 @@
+<img src="20250618_015852.png"></img>
+
 ```js
 const abdul = ({
   about: {
