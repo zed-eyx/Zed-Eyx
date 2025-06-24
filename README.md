@@ -1,4 +1,4 @@
-<img src="20250618_025331.png"></img>
+
 
 ```js
 const abdul = ({
